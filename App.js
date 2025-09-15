@@ -1,20 +1,22 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
+import HomeStack from './stacks/HomeStack'
+import SMSScreen from './screens/sms';
+import WPPScreen from './screens/wpp';
+import CALLScreen from './screens/call';
+
+const RootStack = createNativeStackNavigator();
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <NavigationContainer>
+      <RootStack.Navigator initialRouteName="HomeStack" screenOptions={{ headerShown: false }}>
+        <RootStack.Screen name="HomeStack" component={HomeStack} screenOptions={{ headerShown: false }} />
+        <RootStack.Screen name="SMSScreen" component={SMSScreen} screenOptions={{ headerShown: false }} />
+        <RootStack.Screen name="WPPScreen" component={WPPScreen} screenOptions={{ headerShown: false }} />
+        <RootStack.Screen name="CALLScreen" component={CALLScreen} screenOptions={{ headerShown: false }} />
+      </RootStack.Navigator>
+    </NavigationContainer>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
