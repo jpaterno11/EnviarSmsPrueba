@@ -1,0 +1,432 @@
+[
+  {
+    "code": "MX",
+    "name": "México",
+    "prefix": "+52"
+  },
+  {
+    "code": "US",
+    "name": "Estados Unidos",
+    "prefix": "+1"
+  },
+  {
+    "code": "CA",
+    "name": "Canadá",
+    "prefix": "+1"
+  },
+  {
+    "code": "ES",
+    "name": "España",
+    "prefix": "+34"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "prefix": "+54"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "prefix": "+57"
+  },
+  {
+    "code": "PE",
+    "name": "Perú",
+    "prefix": "+51"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "prefix": "+56"
+  },
+  {
+    "code": "BR",
+    "name": "Brasil",
+    "prefix": "+55"
+  },
+  {
+    "code": "FR",
+    "name": "Francia",
+    "prefix": "+33"
+  },
+  {
+    "code": "DE",
+    "name": "Alemania",
+    "prefix": "+49"
+  },
+  {
+    "code": "IT",
+    "name": "Italia",
+    "prefix": "+39"
+  },
+  {
+    "code": "GB",
+    "name": "Reino Unido",
+    "prefix": "+44"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "prefix": "+61"
+  },
+  {
+    "code": "JP",
+    "name": "Japón",
+    "prefix": "+81"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "prefix": "+86"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "prefix": "+91"
+  },
+  {
+    "code": "RU",
+    "name": "Rusia",
+    "prefix": "+7"
+  },
+  {
+    "code": "ZA",
+    "name": "Sudáfrica",
+    "prefix": "+27"
+  },
+  {
+    "code": "EG",
+    "name": "Egipto",
+    "prefix": "+20"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "prefix": "+234"
+  },
+  {
+    "code": "KE",
+    "name": "Kenia",
+    "prefix": "+254"
+  },
+  {
+    "code": "MA",
+    "name": "Marruecos",
+    "prefix": "+212"
+  },
+  {
+    "code": "DZ",
+    "name": "Argelia",
+    "prefix": "+213"
+  },
+  {
+    "code": "TN",
+    "name": "Túnez",
+    "prefix": "+216"
+  },
+  {
+    "code": "LY",
+    "name": "Libia",
+    "prefix": "+218"
+  },
+  {
+    "code": "SD",
+    "name": "Sudán",
+    "prefix": "+249"
+  },
+  {
+    "code": "ET",
+    "name": "Etiopía",
+    "prefix": "+251"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "prefix": "+256"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "prefix": "+255"
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "prefix": "+233"
+  },
+  {
+    "code": "CI",
+    "name": "Costa de Marfil",
+    "prefix": "+225"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "prefix": "+221"
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "prefix": "+223"
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "prefix": "+226"
+  },
+  {
+    "code": "NE",
+    "name": "Níger",
+    "prefix": "+227"
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "prefix": "+235"
+  },
+  {
+    "code": "CF",
+    "name": "República Centroafricana",
+    "prefix": "+236"
+  },
+  {
+    "code": "CM",
+    "name": "Camerún",
+    "prefix": "+237"
+  },
+  {
+    "code": "GA",
+    "name": "Gabón",
+    "prefix": "+241"
+  },
+  {
+    "code": "CG",
+    "name": "Congo",
+    "prefix": "+242"
+  },
+  {
+    "code": "CD",
+    "name": "República Democrática del Congo",
+    "prefix": "+243"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "prefix": "+244"
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "prefix": "+260"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabue",
+    "prefix": "+263"
+  },
+  {
+    "code": "BW",
+    "name": "Botsuana",
+    "prefix": "+267"
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "prefix": "+264"
+  },
+  {
+    "code": "SZ",
+    "name": "Suazilandia",
+    "prefix": "+268"
+  },
+  {
+    "code": "LS",
+    "name": "Lesoto",
+    "prefix": "+266"
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "prefix": "+261"
+  },
+  {
+    "code": "MU",
+    "name": "Mauricio",
+    "prefix": "+230"
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "prefix": "+248"
+  },
+  {
+    "code": "KM",
+    "name": "Comoras",
+    "prefix": "+269"
+  },
+  {
+    "code": "DJ",
+    "name": "Yibuti",
+    "prefix": "+253"
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "prefix": "+252"
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "prefix": "+291"
+  },
+  {
+    "code": "SS",
+    "name": "Sudán del Sur",
+    "prefix": "+211"
+  },
+  {
+    "code": "RW",
+    "name": "Ruanda",
+    "prefix": "+250"
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "prefix": "+257"
+  },
+  {
+    "code": "MW",
+    "name": "Malaui",
+    "prefix": "+265"
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "prefix": "+258"
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "prefix": "+261"
+  },
+  {
+    "code": "MU",
+    "name": "Mauricio",
+    "prefix": "+230"
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "prefix": "+248"
+  },
+  {
+    "code": "KM",
+    "name": "Comoras",
+    "prefix": "+269"
+  },
+  {
+    "code": "RE",
+    "name": "Reunión",
+    "prefix": "+262"
+  },
+  {
+    "code": "YT",
+    "name": "Mayotte",
+    "prefix": "+262"
+  },
+  {
+    "code": "SH",
+    "name": "Santa Elena",
+    "prefix": "+290"
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "prefix": "+238"
+  },
+  {
+    "code": "ST",
+    "name": "Santo Tomé y Príncipe",
+    "prefix": "+239"
+  },
+  {
+    "code": "GQ",
+    "name": "Guinea Ecuatorial",
+    "prefix": "+240"
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bisáu",
+    "prefix": "+245"
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "prefix": "+224"
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leona",
+    "prefix": "+232"
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "prefix": "+231"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "prefix": "+228"
+  },
+  {
+    "code": "BJ",
+    "name": "Benín",
+    "prefix": "+229"
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "prefix": "+238"
+  },
+  {
+    "code": "ST",
+    "name": "Santo Tomé y Príncipe",
+    "prefix": "+239"
+  },
+  {
+    "code": "GQ",
+    "name": "Guinea Ecuatorial",
+    "prefix": "+240"
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bisáu",
+    "prefix": "+245"
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "prefix": "+224"
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leona",
+    "prefix": "+232"
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "prefix": "+231"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "prefix": "+228"
+  },
+  {
+    "code": "BJ",
+    "name": "Benín",
+    "prefix": "+229"
+  }
+]
